@@ -21,4 +21,7 @@ Full List of Dependencies
 Game Play
 Simply follow the instructions displayed on the splash screen and play ping pong like you normally would!
 
+Video Demonstration
+videodemo.txt will link to a personal video demonstrationg on youtube.
+
 
