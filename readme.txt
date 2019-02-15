@@ -9,6 +9,7 @@ You'll then need to pip install comtypes. You will also need to install pygame f
 3. Install the Kinect for Windows SDK v2
 
 Full List of Dependencies
+* Microsoft Visual Studio
 * Python 2.7.x or 3.4 and higher
 * NumPy
 * comtypes
