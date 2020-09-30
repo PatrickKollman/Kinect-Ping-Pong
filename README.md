@@ -23,6 +23,8 @@ Game Play
 Simply follow the instructions displayed on the splash screen and play ping pong like you normally would!
 
 Video Demonstration
-demo-video.txt will link to a personal video demonstrationg on youtube.
+https://youtu.be/FXtzwhsp4fc
+
+Hope you enjoy it!
 
 
